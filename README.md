@@ -1,2 +1,2 @@
-# Hello-Wolrd
-i'm mearning github
+# Hello-World
+i'm learning github
